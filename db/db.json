@@ -13,7 +13,7 @@
       "name": "Dell XPS 13 Laptop",
       "price": "11990.00",
       "category": "Electronics",
-      "quantity": "11"
+      "quantity": "5"
     }, 
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "name": "The Great Gatsby",
       "price": "120.99",
       "category": "Books",
-      "quantity": "12"
+      "quantity": "0"
     }, 
     {
       "id": 4,
