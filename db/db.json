@@ -3,38 +3,38 @@
   "products": [
     {
       "id": 0,
-      "name": "Hamburger",
-      "price": "23.99",
-      "category": "Food",
+      "name": "iPhone 13",
+      "price": "7990.00",
+      "category": "Electronics",
       "quantity": "1200"
     }, 
     {
       "id": 1,
-      "name": "Apple Vr300",
-      "price": "102465.00",
-      "category": "Technology",
+      "name": "Dell XPS 13 Laptop",
+      "price": "11990.00",
+      "category": "Electronics",
       "quantity": "11"
     }, 
     {
       "id": 2,
-      "name": "Dacia",
-      "price": "10054.96",
-      "category": "Cars",
-      "quantity": "9966"
+      "name": "Men's Slim Fit T-Shirt",
+      "price": "240.99",
+      "category": "Clothing",
+      "quantity": "250"
     }, 
     {
       "id": 3,
-      "name": "Hamburger big",
-      "price": "50.99",
-      "category": "food",
+      "name": "The Great Gatsby",
+      "price": "120.99",
+      "category": "Books",
       "quantity": "12"
     }, 
     {
       "id": 4,
-      "name": "Pizza",
-      "price": "44.50",
-      "category": "food",
-      "quantity": "12"
+      "name": "Anti-Aging Serum",
+      "price": "340.00",
+      "category": "Beauty and Personal Care",
+      "quantity": "65"
     }
   ]
 }
